@@ -10,3 +10,12 @@
 - Conditions (IF & Else)
 ## Class-03
 - Modulus operator
+- Nested Conditions
+- Turnary Operator
+- Switch
+- Code Redundancy
+- Infinite loop
+- While loop
+- Do while loop
+- For loop
+- Example Table of 5
